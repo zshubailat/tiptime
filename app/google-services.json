@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893647425413",
+    "project_id": "happybirthday-81794",
+    "storage_bucket": "happybirthday-81794.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893647425413:android:12cd71a23b0054bc113eec",
+        "android_client_info": {
+          "package_name": "com.example.happybirthday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893647425413-g18n6gkba5r63rsu1oans6p2oubkua19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5lG6p5iWcZ_5jFbhiy2iXpEWzYITDXS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893647425413-g18n6gkba5r63rsu1oans6p2oubkua19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
